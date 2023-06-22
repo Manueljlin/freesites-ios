@@ -1,0 +1,41 @@
+{
+  "pins" : [
+    {
+      "identity" : "hidabletabview-swiftui",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/AliMert/HidableTabView-SwiftUI",
+      "state" : {
+        "revision" : "9acb7587050fabadd38b7563aaa19f93ba133b73",
+        "version" : "1.0.1"
+      }
+    },
+    {
+      "identity" : "kingfisher",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/onevcat/Kingfisher",
+      "state" : {
+        "revision" : "e8625b80c413457b13ea9be75d07f6e9f5830c19",
+        "version" : "7.7.0"
+      }
+    },
+    {
+      "identity" : "map",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/iakov-kaiumov/Map",
+      "state" : {
+        "branch" : "main",
+        "revision" : "9d8306ad39fe0184a64cdd0e77e4aebc30091f45"
+      }
+    },
+    {
+      "identity" : "vfont",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/dufflink/vfont",
+      "state" : {
+        "revision" : "eceae7296a3bb54a1e8b5fca0bda047c5ca31264",
+        "version" : "0.6.1"
+      }
+    }
+  ],
+  "version" : 2
+}
